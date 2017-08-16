@@ -8,7 +8,8 @@ title: Aquent Gymnasium | Glossary
 </header>
 
 <dl class="glossary">
-{% for term in site.data.glossary %}
+{% assign sorted_terms = site.data.glossary | sort: 'term' %}
+{% for term in sorted_terms %}
     <dt>{{ term.term }}</dt>
     <dd>{{ term.def }}</dd>
 {% endfor %}

@@ -1,5 +1,11 @@
+- term: prettify
+  def: After the uglification, one can prettify to encourage beautification.
+
 - term: browser
   def: If you don't know what a browser is, then you are seriously lost. <em>Paradoxically</em> lost.
+
+- term: repository
+  def: A <strong>repository</strong> is an on-disk data structure which stores metadata for a set of files and/or directory structure.
 
 - term: dev tools
   def: This is the term that started this entire juggernaught.
