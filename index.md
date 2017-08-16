@@ -1,6 +1,7 @@
 ---
 layout: gym-default
 title: Aquent Gymnasium | Glossary
+meta_description: A glossary of terms related to design and development.
 ---
 
 <header class="main-header">
