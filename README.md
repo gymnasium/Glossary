@@ -1,5 +1,7 @@
-[![Gymnasium Logo](http://gymnasium.github.io/assets/GYM-logo.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](https://gymnasium.github.io/Glossary/img/gymnasium-logo-ko.svg)](https://thegymnasium.com)
 
 # Glossary of Terms
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### README
+
+A **README** file contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called `READ.ME`, `README.TXT`, `README.md` (for a text file using markdown markup), `README.1ST` – or simply `README`.
